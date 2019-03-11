@@ -1,0 +1,22 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the home page.
+// -----------------------------------------------------------------------------
+
+.container{
+    display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+       
+        align-items: center;
+}
+
+.raja{
+    width: 60vw;
+        min-width: 360px;
+        text-align: center;
+        margin: 5% auto;
+    
+}
